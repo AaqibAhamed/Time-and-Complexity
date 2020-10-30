@@ -19,6 +19,8 @@ namespace Time_and_Complexity
 				}
 				output = input == 1 ? "Not prime" : "Prime";
 				Console.WriteLine(output);
+
+				// comment added 
 			}
 
 		}
